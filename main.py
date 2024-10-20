@@ -66,4 +66,4 @@ async def check(ctx):
     embed.set_footer(text="Made by koashi")
     await ctx.send(embed=embed)
 
-bot.run("MTI5NjY2ODE1NDYyOTQ1NTkwNA.GcJrdH.0aiJrOYJeB3lGYozc2pOpgjgWsijWAKy4bznj8")
+bot.run("MTI5NjY2ODE1NDYyOTQ1NTkwNA.G6zftT.djXhoEAu-9nOpIHWwbU_K7tRa1fG8pCg5rK1cQ")
